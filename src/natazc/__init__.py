@@ -1,0 +1,1 @@
+from .natazc import main
