@@ -1,4 +1,4 @@
-cat > src/natazc/natazc.py << 'EOF'
+
 """
 GLITXH-VIP GENERATOR V2.5 ULTRA - Cython Compatible
 Credits : glitxh (tele : @glitxh4ff)
@@ -559,4 +559,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-EOF
