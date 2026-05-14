@@ -4,7 +4,7 @@ import glob
 
 setup(
     name="natazc",
-    version="0.1.0",
+    version="0.1.1",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     ext_modules=cythonize(
